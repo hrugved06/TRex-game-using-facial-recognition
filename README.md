@@ -2,8 +2,9 @@
 
 
 
-You will find the required code in this repository. ;-)
+I have simulated the Chrome's Dino game with the facial expressions. You can control the Dino with the facial movements like opening your mouth makes the Dino jump and leaning forward makes the Dino crouch.
 
+    This setup uses dlib and facial-recognition to work
 
 ![Dino](https://raw.githubusercontent.com/hrugved06/Playing-TRex-game-using-facial-recognition/main/assets/dino.gif)
 
